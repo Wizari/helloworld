@@ -6,9 +6,5 @@ public class Application {
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }
-        int x = 3;
-        int y = 2;
-        int result = x + y;
-        int i = 4 + 4;
     }
 }
